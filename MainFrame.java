@@ -9,6 +9,9 @@ import java.util.Random;
 
 /**
  * The MainFrame class displays the GUI and also handles most operations inside of this program
+ *@author Jose Merida
+ *@version 1.1
+ @since 28-10-2023
  */
 public class MainFrame extends JFrame implements ActionListener {
     JLabel titleLabel = new JLabel();
